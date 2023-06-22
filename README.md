@@ -21,7 +21,7 @@ Follow the steps below to set up and run the code for converting Google Forms re
 
   2. Create or update the Word document template (template.docx) according to your desired layout and placeholders. Make sure to enclose placeholders within double curly braces ({{placeholder}}).
 
-  3. Open the Python script file (convert_forms_to_docx.py) and make sure to set the correct filenames for the input Excel file and the Word document template.
+  3. Open the Python script file (ofcalExport.py) and make sure to set the correct filenames for the input Excel file and the Word document template.
 
   4. Run the script: python ofcalExport.py
 
